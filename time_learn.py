@@ -51,3 +51,4 @@ print(time.strftime("%Y-%m-%d %H:%M:%S ",time.gmtime(3600)))
 # strptime(str,format)
 strtime='2021-2-18 19:05:28'
 print(time.strptime(strtime,"%Y-%m-%d %H:%M:%S"))
+# 更改
